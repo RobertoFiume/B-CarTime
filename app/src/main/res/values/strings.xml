@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">B-CarTime</string>
+    <string name="test">Hello word</string>
+    <string name="notification_car_title">Device detected</string>
+    <string name="notification_car">Active presence sensor detection</string>
+    <string name="enter_car">You got in the car</string>
+    <string name="exit_car">You got out of the car</string>
+    <string name="meters">meters</string>
+    <string name="distance">Distance</string>
+</resources>

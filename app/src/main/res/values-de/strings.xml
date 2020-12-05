@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">B-CarTime</string>
+    <string name="test">Hallo</string>
+    <string name="notification_car_title">Gerät entdeckt</string>
+    <string name="notification_car">Aktive Anwesenheitssensor-Erkennung</string>
+    <string name="enter_car">Du bist in das Auto gestiegen</string>
+    <string name="exit_car">Du bist aus dem Auto gestiegen</string>
+    <string name="meters">Meter</string>
+    <string name="distance">Entfernung</string>
+</resources>
